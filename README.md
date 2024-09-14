@@ -2,7 +2,7 @@
 - 👀 I’m interested in rock music, literature, judo, foreign languages.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
 - 💞️ I’m looking to learn and share.
-- 📫 You can reach me through e-mail.
+- 📫 You can reach me through github and e-mail.
 - 😄 Pronouns: Programming is challenging, and is fun as well.
 - ⚡ Language fact: 100% Chinese, 80% Japanese, 40% English.
 
